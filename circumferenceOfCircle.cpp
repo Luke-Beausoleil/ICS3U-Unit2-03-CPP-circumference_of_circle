@@ -11,7 +11,7 @@ int main() {
     // This function calculates the circumference of a circle
     const double TAU = 6.283185307179586;
     int radius;
-    int circumference;
+    double circumference;
 
     // input
     std::cout << "Enter radius of the circle in mm: ";
